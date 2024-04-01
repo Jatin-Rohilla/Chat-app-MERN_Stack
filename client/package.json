@@ -1,0 +1,48 @@
+{
+  "name": "chat-app-frontend",
+  "version": "0.1.0",
+  "private": true,
+  "scripts": {
+    "dev": "next dev",
+    "build": "next build",
+    "start": "next start",
+    "lint": "next lint"
+  },
+  "dependencies": {
+    "@chakra-ui/icons": "^2.1.1",
+    "@chakra-ui/next-js": "^2.2.0",
+    "@chakra-ui/react": "^2.8.2",
+    "@emoji-mart/data": "^1.1.2",
+    "@emoji-mart/react": "^1.1.1",
+    "@emotion/react": "^11.11.1",
+    "@emotion/styled": "^11.11.0",
+    "@reduxjs/toolkit": "^2.0.1",
+    "axios": "^1.6.2",
+    "bufferutil": "^4.0.8",
+    "emoji-mart": "^5.5.2",
+    "firebase": "^10.7.1",
+    "framer-motion": "^10.16.16",
+    "js-cookie": "^3.0.5",
+    "next": "14.0.4",
+    "react": "^18",
+    "react-dom": "^18",
+    "react-icons": "^4.12.0",
+    "react-redux": "^9.0.4",
+    "redux": "^5.0.0",
+    "redux-persist": "^6.0.0",
+    "redux-thunk": "^3.1.0",
+    "socket.io": "^4.7.2",
+    "socket.io-client": "^4.7.2",
+    "utf-8-validate": "^5.0.10",
+    "ws": "^8.16.0"
+  },
+  "devDependencies": {
+    "@types/js-cookie": "^3.0.6",
+    "@types/node": "^20",
+    "@types/react": "^18",
+    "@types/react-dom": "^18",
+    "eslint": "^8",
+    "eslint-config-next": "14.0.4",
+    "typescript": "^5"
+  }
+}
