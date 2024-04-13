@@ -52,7 +52,7 @@ Chat-App is a dynamic real-time messaging platform designed for seamless communi
 
 # Contributer
 
-This is a solo project made by <b>Ashutosh Verma</b>
+This is a solo project made by <b>Jatin Rohilla</b>
 
 - [Jatin Rohilla (GitHub)](https://github.com/Jatin-Rohilla)
 - [Jatin Rohilla (LinkedIn)](https://www.linkedin.com/in/jatin-rohilla/)
